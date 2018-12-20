@@ -1,4 +1,4 @@
-package Foo // import "github.com/chrismwendt/Foo"
+package Foo
 
 type FooType int
 
